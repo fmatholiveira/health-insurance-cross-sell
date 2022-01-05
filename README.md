@@ -61,12 +61,6 @@ O projeto foi desenvolvido através do método CRISP-DM, aplicando os seguintes 
 <br><br>
 
 ## 4. Top Insights
-Hipótese 01:
-Verdadeiro/Falso.
-Hipótese 02:
-Verdadeiro/Falso.
-Hipótese 03:
-Verdadeiro/Falso.
 <br><br>
 
 ## 5. Modelos de de Machine Learning utilizados
