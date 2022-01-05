@@ -1,6 +1,8 @@
 # Health Insurance Cross Sell
 
-<b>AVISO:</b> Todos os problemas e premissas contextualizados no projeto são fictícios. Seu único objetivo é dar sentido para o desenvolvimento da solução.<br><br>
+<b>AVISO:</b> Todos os problemas e premissas contextualizados no projeto são fictícios. Seu único objetivo é dar sentido para o desenvolvimento da solução.
+Os dados estão disponíveis no site do kaggle através do link: https://www.kaggle.com/anmolkumar/health-insurance-cross-sell-prediction
+<br><br>
 
 <br><br>
 
