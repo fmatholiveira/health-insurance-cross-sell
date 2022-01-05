@@ -27,7 +27,7 @@ Contudo, o time de vendas tem uma capacidade de realizar 20 mil ligações dentr
 ## 3. Estratégia de solução
 O projeto foi desenvolvido através do método CRISP-DM, aplicando os seguintes passos:
 
-**Passo 01 - Descrição dos Dados:** 
+**Passo 01 - Descrição dos Dados:** Nessa etapa, o objetivo foi conhecer os dados, seus tipos, analisar métricas estatísticas básicas como: média, mediana, máximo, mínimo, range, skew, kurtosis e desvio padrão. Foi analisado também o balanceamento dos dados, onde é possível identificar que apenas 12.26% de todos os clientes da base possuem interesse na contratação do seguro.
 
 **Passo 02 - Feature Engineering:** 
 
