@@ -4,9 +4,6 @@
 Os dados estão disponíveis no site do kaggle através do link: https://www.kaggle.com/anmolkumar/health-insurance-cross-sell-prediction
 <br><br>
 
-<br><br>
-
-
 ## 1. Problema de negócio.
 A Insurance All é uma empresa que fornece seguro de saúde para seus clientes e o time de produtos está analisando a possibilidade de oferecer aos assegurados, um novo produto: Um seguro de automóveis.
 
@@ -20,8 +17,23 @@ Contudo, o time de vendas tem uma capacidade de realizar 20 mil ligações dentr
 <br><br>
 
 ## 2. Premissas de negócio.
+Por enquanto, ainda não foi assumido nenhuma premissa de negócio.
 <br><br>
 ### 2.1. Sobre os dados
+| Atributos                        | Descrição                                                    |
+| -------------------------------- | ------------------------------------------------------------ 
+| id                               | ID único para o cliente 
+| gender                           | Gênero do cliente
+| age                              | Idade do cliente
+| region_code                      | Código único para a região do cliente
+| policy_sales_channel             | Código para o canal de venda ao cliente, ou seja. Agentes diferentes, por correio, por telefone, pessoalmente, etc.
+| driving_license                  | 0: O cliente não tem habilitação, 1: O cliente já tem habilitação
+| vehicle_age                      | Idade do veículo
+| vehicle_damage                   | 1: O cliente teve seu veículo danificado no passado. 0: O cliente não teve seu veículo danificado no passado.
+| previously_insured               | 1: O cliente já tem seguro de veículos, 0: o cliente não tem seguro de veículos
+| annual_premium                   | O valor que o cliente precisa de anuidade no seguro
+| vintage                          | Número de dias que o cliente esteve associado à seguradora
+| response                         | 1: O cliente está interessado, 0: O cliente não está interessado
 <br><br>
 
 ## 3. Estratégia de solução
