@@ -1,0 +1,6 @@
+# Assimetria e Curtose (skew e kurtosis)
+https://support.minitab.com/pt-br/minitab/20/help-and-how-to/statistics/basic-statistics/supporting-topics/data-concepts/how-skewness-and-kurtosis-affect-your-distribution/
+
+
+# Seaborn countplot
+https://seaborn.pydata.org/generated/seaborn.countplot.html
