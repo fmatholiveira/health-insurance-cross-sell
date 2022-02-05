@@ -41,9 +41,9 @@ O projeto foi desenvolvido através do método CRISP-DM, aplicando os seguintes 
 
 **Passo 01 - Descrição dos Dados:** Nessa etapa, o objetivo foi conhecer os dados, seus tipos, analisar métricas estatísticas básicas como: média, mediana, máximo, mínimo, range, skew, kurtosis e desvio padrão. Foi analisado também o balanceamento dos dados, onde é possível identificar que apenas 12.26% de todos os clientes da base possuem interesse na contratação do seguro.
 
-**Passo 02 - Feature Engineering:** 
+**Passo 02 - Feature Engineering:** Nessa etapa, não foi criada nenhuma nova variável, utilizei apenas para modificar alguns textos para auxiliar no desenvolvimento do projeto.
 
-**Passo 03 - Filtragem de Variáveis:** 
+**Passo 03 - Filtragem de Variáveis:** Não foi utilizada nenhuma filtragem de variável, já que não encontrei nenhuma premissa a ser assumida pelo negócio.
 
 **Passo 04 - Análise Exploratória de Dados:** 
 
